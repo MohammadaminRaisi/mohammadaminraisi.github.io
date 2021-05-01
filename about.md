@@ -7,9 +7,10 @@ published: true
 
 Some information about you!
 
-### اطلاعات بیشتر
+### More information
 
- ،سلام من محمدامین رئیسی هستم، متولد سالل 1379 و دانشجوی رشته مهندسی کامپیوتر 
-### ارتباط با من
+Hello, My name is Mohammadamin Raisi, I am a developer.
+
+### Contact me
 
 [mohammadaminraisi920@gmail.com](mohammadaminraisi920@gmail.com)
