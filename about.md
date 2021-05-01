@@ -7,9 +7,9 @@ published: true
 
 Some information about you!
 
-### More Information
+### اطلاعات بیشتر
 
-سلام من محمدامین رئیسی هستم، دانشجوی رشته مهندسی کامپیوتر 
-### Contact me
+ ،سلام من محمدامین رئیسی هستم، متولد سالل 1379 و دانشجوی رشته مهندسی کامپیوتر 
+### ارتباط با من
 
 [mohammadaminraisi920@gmail.com](mohammadaminraisi920@gmail.com)
